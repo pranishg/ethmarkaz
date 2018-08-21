@@ -1,0 +1,14 @@
+select{
+	border: 0;
+}
+select:focus{
+	outline: 0;
+}
+input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button { 
+  -webkit-appearance: none; 
+  margin: 0; 
+}
+.signup-form{
+	margin-top:-10%;
+}
